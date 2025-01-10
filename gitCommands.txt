@@ -2,3 +2,12 @@ Git - Can be used to maintain a record of changes to a directory/file/project
 GitHub - Platform to host git repositories. Other examples - Bitbucket, etcetera
 #1 git init - Command to initialize new Git repository
 #2 git status - to view the current status of git repository
+#3 git add file_name - to stage specific file
+#4 git add . - stage all items in the directory
+#5 git commit -m "commit_message" - to commit staged items 
+#6 git log - Log of commit history
+#7 git restore --staged file_name - To restore file from staging area to original
+#8 git reset commit_hash - To restore system to commit_hash specified
+#9 git stash - To store changes in a temporary space
+#10 git stash pop - to restore back stash items
+#11 git stash clear - Delete all the stash items
