@@ -15,3 +15,5 @@ GitHub - Platform to host git repositories. Other examples - Bitbucket, etcetera
 #13 git remote add upstream url - to add upstream url
 #14 git branch branch_name - to create new branch
 #15 git checkout branch_name - to swicth to branch and make head pointing to branch
+#16 git merge branch_name - The branch which needs to be merged with current branch
+#17 git remote -v - to display all the URLs linked with the repository
