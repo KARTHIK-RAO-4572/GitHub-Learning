@@ -1,0 +1,4 @@
+Git - Can be used to maintain a record of changes to a directory/file/project
+GitHub - Platform to host git repositories. Other examples - Bitbucket, etcetera
+#1 git init - Command to initialize new Git repository
+#2 git status - to view the current status of git repository
