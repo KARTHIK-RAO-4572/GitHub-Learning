@@ -11,3 +11,5 @@ GitHub - Platform to host git repositories. Other examples - Bitbucket, etcetera
 #9 git stash - To store changes in a temporary space
 #10 git stash pop - to restore back stash items
 #11 git stash clear - Delete all the stash items
+#12 git remote add origin url - to add remote repository
+#13 git remote add upstream url - to add upstream url
