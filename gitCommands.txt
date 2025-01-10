@@ -13,3 +13,5 @@ GitHub - Platform to host git repositories. Other examples - Bitbucket, etcetera
 #11 git stash clear - Delete all the stash items
 #12 git remote add origin url - to add remote repository
 #13 git remote add upstream url - to add upstream url
+#14 git branch branch_name - to create new branch
+#15 git checkout branch_name - to swicth to branch and make head pointing to branch
